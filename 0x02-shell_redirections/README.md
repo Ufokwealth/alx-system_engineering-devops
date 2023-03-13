@@ -1,1 +1,1 @@
-my shell project
+shell redirections
